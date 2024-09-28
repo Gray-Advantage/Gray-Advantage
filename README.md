@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://t.me/Gray_Advantage" target="_blank">Gray Advantage</a> приветствует тебя</h1>
 <h3 align="center">~tuturu~</h3>
 
-Я позиционирую себя как backend-разработчик.
+Я позиционирую себя как backend-разработчик
 
 ### Основные технологии:
 - Python
@@ -25,4 +25,4 @@
 - Из видеоигр люблю жанр стратегии и одиночные сюжетные игры (например: The Last of Us, God of War, Starcraft, серия игр Anno, Герои меча и магии III, Red Alert 3, Steins;Gate, Factorio и т.п.)
 - Имею кролика — Луна, или Лунтик, или же Лунаходик — вездесущая крольчиха с зачатками разума
 
-Для связи использую [telegram](https://t.me/Gray_Advantage) или [почту](mailto:sergeyindra@yandex.ru)
+Для связи используйте [telegram](https://t.me/Gray_Advantage) или [почту](mailto:sergeyindra@yandex.ru)

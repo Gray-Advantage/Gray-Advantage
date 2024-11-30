@@ -26,4 +26,4 @@
 - Из видеоигр люблю жанр стратегии и одиночные сюжетные игры (например: The Last of Us, God of War, Starcraft, серия игр Anno, Герои меча и магии III, Red Alert 3, Steins;Gate, Factorio и т.п.)
 - Имею кролика — Луна, или Лунтик, или же Лунаходик — везде**сущая** крольчиха с **зайчат**ками разума
 
-Для связи используйте [telegram](https://t.me/Gray_Advantage) или [почту](mailto:sergeyindra@yandex.ru)
+Для связи используйте [telegram](https://t.me/Gray_Advantage) или [почту](mailto:gray-advantage@yandex.ru)
